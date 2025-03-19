@@ -1,4 +1,4 @@
-# 🚀 Leonardo Marques Luciano  
+# 🚀 Leonardo Marques Luciano
 
 [![GitHub Banner](https://github-readme-stats.vercel.app/api?username=LeooLuciano&show_icons=true&theme=radical)](https://github.com/LeooLuciano)  
 
