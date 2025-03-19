@@ -1,46 +1,41 @@
-# 👨‍💻 Leonardo Marques Luciano  
+# 🚀 Leonardo Marques Luciano  
 
-📍 São Paulo - SP  
-✉️ leonardomluciano2001@gmail.com
+[![GitHub Banner](https://github-readme-stats.vercel.app/api?username=LeooLuciano&show_icons=true&theme=radical)](https://github.com/LeooLuciano)  
 
+📍 **São Paulo - SP**  
+✉️ **Email:** [leonardomluciano2001@gmail.com](mailto:leonardomluciano2001@gmail.com)  
+📞 **WhatsApp:** [(11) 99334-1337](https://wa.me/5511993341337)  
+🔗 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/leonardo-m-bbb141166)  
 
-## 🏆 Sobre Mim  
-Sou um profissional de Tecnologia da Informação com experiência em **desenvolvimento de software**, **análise de sistemas** e **suporte técnico**. Meu objetivo é criar soluções inovadoras que otimizam processos empresariais e melhoram a experiência do usuário.  
+---
 
-## 🚀 Habilidades Técnicas  
-- **Linguagens de Programação:** C#, Java, JavaScript, HTML  
-- **Bancos de Dados:** PostgreSQL, Caché, Informix, MySQL  
+## 📌 Sobre Mim  
+💻 Desenvolvedor apaixonado por tecnologia, análise de sistemas e soluções inovadoras.  
+🎯 Busco aprimorar meus conhecimentos e contribuir com projetos inovadores.  
 
-## 🎓 Formação Acadêmica  
-📚 **Análise e Desenvolvimento de Sistemas** | Universidade Cruzeiro do Sul  
-📅 05/2021 - 12/2024 | 📍 São Paulo - SP  
+---
 
-## 📌 Projetos  
-### **Sistema de Gestão de Transporte e Mecânica**  
-🚀 [Repositório do Projeto (Em breve)]()  
-- Desenvolvimento de um sistema para gestão de frotas e serviços mecânicos  
-- **Objetivo:** Centralizar informações, automatizar processos e melhorar a tomada de decisão  
-- **Tecnologias:** React.js (Front-end), Node.js + Express (Back-end), MySQL (Banco de Dados), JWT (Autenticação), AWS (Hospedagem)  
+## 🔥 Habilidades Técnicas  
+![Linguagens](https://skillicons.dev/icons?i=java,js,html,css,c,python,mysql,postgres,linux,windows&theme=dark)  
+
+---
 
 ## 🌍 Idiomas  
 - **Português:** Nativo  
 - **Inglês:** Intermediário (Leitura e Escrita)  
 - **Italiano:** Intermediário (Leitura e Escrita)  
 
+---
 
+## 📊 Estatísticas do GitHub  
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeooLuciano&layout=compact&theme=radical)](https://github.com/LeooLuciano)  
+[![Commits Recentes](https://streak-stats.demolab.com/?user=LeooLuciano&theme=radical)](https://github.com/LeooLuciano)  
 
+---
 
-<!--
-**LeooLuciano/LeooLuciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Projetos e Contribuições  
+🔗 **Projeto Atual:**  
+![Último Projeto](https://img.shields.io/badge/Projeto%20Atual-Gestão%20de%20Transporte-blue?style=for-the-badge)  
 
-Here are some ideas to get you started:
+🚀 **Confira meu portfólio:** [GitHub](https://github.com/LeooLuciano)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
